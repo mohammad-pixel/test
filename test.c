@@ -6,8 +6,6 @@ int main()
 {
 	unsigned int n, i, j, k;
 	
-	int flag;
-	
 	scanf("%u",&n);
 	
 	getchar();
